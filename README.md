@@ -1,7 +1,12 @@
-- 👋 Hi, I’m Shivam Naik(@shivamsnaik)
-- 🌱 I’m a Computer Engineer
-- 👀 Currently pursuing Masters at TU Kaiserslautern.
-- 📫 How to reach me: ichbinshivamsnaik@outlook.com
+- 👋 Hi, I’m Shivam Naik (Portfolio: https://shivamnaik.de)
+- 🌱 I’m a computer engineer, currently pursuing my masters at TU Kaiserslautern.
+- Areas of Interest: 
+  -   Machine learning
+  -   Artificial Intelligence
+  -   Web Development
+  -   Android Development
+   
+- 📫 How to reach me?: ichbinshivamsnaik@outlook.com
 
 <!---
 shivamsnaik/shivamsnaik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
